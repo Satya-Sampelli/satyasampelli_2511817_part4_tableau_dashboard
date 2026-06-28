@@ -1,6 +1,6 @@
 # Part 4 – Tableau Executive Dashboard & Data Storytelling
 
-**Student:** Satya Rao
+**Student:** Satya Sampelli
 **Student ID:** 211817
 
 ---
