@@ -1,6 +1,6 @@
 # Dashboard Story — Executive Sales Performance Review
 ## Part 4 — Tableau Executive Dashboard
-**Student:** Satya | **ID:** 211817
+**Student:** Satya Sampelli | **ID:** 211817
 **Audience:** Retail Leadership Team
 
 ---
