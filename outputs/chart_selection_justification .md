@@ -1,6 +1,6 @@
 # Chart Selection Justification
 ## Part 4 — Tableau Executive Dashboard
-**Student:** Satya | **ID:** 211817
+**Student:** Satya Sampelli | **ID:** 211817
 
 ---
 
